@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil GitHub 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!,+sou+Sarah+Barbosa!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Sarah+Barbosa!)](https://git.io/typing-svg)
 
 ## Sobre Mim
 
