@@ -4,8 +4,7 @@
 
 ## Sobre Mim
 
-- 🔭 Atualmente, estou focada na criação de um modelo de Machine Learning para detectar bioassinaturas em atmosferas de exoplanetas do tipo Superterras (essa é minha pesquisa no **doutorado em Física**!).
-- 🌱 Além disso, estou aprendendo sobre a integração da API da OpenAI em aplicativos.
+- 🔭 Atualmente, estou focada na criação de um modelo de Deep Learning para detectar bioassinaturas em atmosferas de exoplanetas do tipo Terra (essa é minha pesquisa no **doutorado em Física**!).
 - 💬 Sinta-se à vontade para me fazer perguntas sobre Física, Astrofísica, Exoplanetologia, Atmosferas de Exoplanetas, Python, Machine Learning, SQL e Power BI. Estou aqui para compartilhar conhecimento e colaborar em projetos interessantes.
 - ⚡ Fora do mundo da tecnologia, sou apaixonada por Jiu-Jitsu e amo platinar jogos no PS3/PS4! 🎮
 
@@ -34,10 +33,6 @@
 ### Office
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-## Estou estudando :open_book:
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Vamos Conectar! 📫
 
